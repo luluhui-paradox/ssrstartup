@@ -1106,7 +1106,7 @@ install_main(){
         qr_generate_libev
     fi
 
-    wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
+    wget --no-check-certificate https://github.com/wwc-workspace/ssrstartup/blob/master/bbr-startup.sh && chmod +x bbr-startup.sh && bbr-startup.sh
 
     echo
     echo "Welcome to visit: http://www.hathtv.tk/"
