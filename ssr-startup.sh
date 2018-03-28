@@ -371,7 +371,7 @@ error_detect_depends(){
     ${command}
     if [ $? != 0 ]; then
         echo -e "[${red}Error${plain}] Failed to install ${red}${depend}${plain}"
-        echo "Please visit: https://teddysun.com/486.html and contact."
+        echo "Please visit: https://www.hathtv.tk and contact."
         exit 1
     fi
 }
