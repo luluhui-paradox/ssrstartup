@@ -1,7 +1,7 @@
 # ssrstartup
 An unoffical ssr install script
 集成ss四版本和bbr的一键安装脚本
-## 关于
+## 注意
   
 Shadowsocks-Python 和 ShadowsocksR 安装后不可同时启动（因为本质上都属 Python 版）
   
